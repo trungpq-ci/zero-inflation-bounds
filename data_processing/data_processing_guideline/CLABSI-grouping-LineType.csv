@@ -1,0 +1,40 @@
+LineTypeRaw,Port,PICC,TunneledCVC,Pheresis,Exclude
+port,X,,,,
+picc,,X,,,
+tunneled central line,,,X,,
+tunneled cvc,,,X,,
+dl picc,,X,,,
+picc and port,X,,,,
+picc & port,X,,,,
+dl tunneled cvc,,,X,,
+hickman,,,X,,
+tuneled,,,X,,
+tunneled,,,X,,
+open implanted port,X,,,,
+implanted port,X,,,,
+hohn double lumen,,,X,,
+hohn,,,X,,
+unknown,,,,,X
+bard picc,,X,,,
+other,,,,,X
+double lumen central line/ non-tunneled,,,X,,
+hickman double lumen,,,X,,
+broviac,,,X,,
+port-a-cath,X,,,,
+port - single barrell,X,,,,
+pheresis double lumen,,,,X,
+port double barrell,X,,,,
+hickman triple lumen,,,X,,
+power line,,X,,,
+midline,,,,,X
+peripheral cath/ protective,,,,,X
+power picc,,X,,,
+solo power picc,,X,,,
+gronshong/ chest placement/ sl,,,X,,
+p.a.s.v. (catheter innovations),,X,,,
+butterfly peripheral access device,,,,,X
+davol catheter,,,,,X
+central catheter (tunneled),,,X,,
+port-chest,X,,,,
+central catheter (non-tunneled),,,,,X
+pheresis catheter,,,,X,

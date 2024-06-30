@@ -1,0 +1,75 @@
+TherapyType,Other,TPN,OPAT,Chemotherapy
+Blood draw/access only,X,,,
+TPN,,X,,
+"TPN, hydration",X,X,,
+Ionotropes,X,,,
+Blood draw,X,,,
+Antimicrobial/OPAT,,,X,
+"Hydration, Antibiotic",X,,X,
+"TPN, Antimicrobial/OPAT",,X,X,
+Chemotherapy,,,,X
+Hydration,X,,,
+"IVIG, Hydration",X,,,
+TPN / Hydration,X,X,,
+"TPN, Hydration",X,X,,
+tpn,,X,,
+TPN/ Hydration,X,X,,
+Access,X,,,
+Access/Blood Draw,X,,,
+Antibiotics,,,X,
+IV antimicrobials,,,X,
+OPAT,,,X,
+Chemotherapy/IV hydration,X,,,X
+Ionotrope,X,,,
+Diuretic,X,,,
+Remicade,X,,,
+IV Fluids,X,,,
+"KTW syndrome, s/p Left AKA",X,,,
+"Antibiotics, hydration",X,,X,
+Cardiomyopathy/MilriNne,X,,,
+"Hydration, Antibiotics",X,,X,
+TPN; OPAT,,X,X,
+Chemo & TPN,,X,,X
+"Chemo, hydration",X,,,X
+"Chemotherapy, TPN",,X,,X
+CF,X,,,
+IoNtrope,X,,,
+"Hydration
+OPAT",X,,X,
+"OPAT
+Hydration",X,,X,
+"TPN
+OPAT
+Other: Declotting
+Other: Miscellaneous",X,X,X,
+"TPN
+OPAT",,X,X,
+"TPN, Hydration, OPAT",X,X,X,
+"TPN, Hydration, OPAT, Other: CathFlo",X,X,X,
+"Hydration
+Other: Antiemetics
+Other: Pain management",X,,,
+"Hydration, Catheter care, Biologicals",X,,,
+"Hydration, Pain management",X,,,
+"TPN
+Hydration",X,X,,
+"TPN
+Other: Antiemetic",X,X,,
+Klebsiella pneumoniae,,,X,
+Staphylococcus epidermidis,,,X,
+Catheter care,X,,,
+"OPAT, hydration",X,,X,
+TPN and OPAT,,X,X,
+"TPN, OPAT",,X,X,
+CHEMO,,,,X
+"TPN, Chemotherapy",,X,,X
+Inotrope,X,,,
+BIOLOGIC,X,,,
+Biologic,X,,,
+IVIG,X,,,
+Prolastin - C,X,,,
+CATH CARE,X,,,
+OTHER,X,,,
+HYD,X,,,
+ANTIB,,,X,
+"TPN, Chemo",,X,,X

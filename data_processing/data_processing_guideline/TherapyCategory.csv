@@ -1,0 +1,8 @@
+TherapyCategory,OtherTherapy,TPN,OPAT,Chemotherapy
+Access,X,,,
+TPN,,X,,
+Hydration,X,,,
+Ionotrope,X,,,
+Antibiotics/Antimicrobial/OPAT,,,X,
+Chemotherapy,,,,X
+Other,X,,,
